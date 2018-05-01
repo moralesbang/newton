@@ -1,24 +1,18 @@
-# README
+# Newton
+## Funcionality
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Why this?
 
-Things you may want to cover:
+## Description
 
-* Ruby version
+This is a ruby on rail application...
 
-* System dependencies
+## Contributing
 
-* Configuration
+### Development
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Fork it! ( https://github.com/moralesbang/newton/fork )
+2. Create your feature branch: git checkout -b my-new-feature
+3. Commit your changes: git commit -am 'Add some feature'
+4. Push to the branch: git push origin my-new-feature
+5. Create a new Pull Request :smiley:
